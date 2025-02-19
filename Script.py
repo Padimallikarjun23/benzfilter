@@ -8,8 +8,8 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://telegram.dog/Benzmovies>Benzmawa</a>
-✯ Best Friend : <a herf=https://telegram.dog/telugumvxyz2>Telugumv</a>
+✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://telegram.dog/malli_4u>M4U</a>
+✯ Best Friend : <a herf=https://telegram.dog/Benzmovies>Benzmawa</a>
 ✯ Cᴏᴅᴇᴅ Oɴ: Own system......
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: Localhost
 ✯ Mʏ Sᴇʀᴠᴇʀ: serveremledhu.com
@@ -232,7 +232,7 @@ Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
  🎛 Countries : <code>{countries}</code>  
   
  Requested by : {message.from_user.mention}  
- Powered By @Benzmovies"""
+ Powered By @Malli_4u"""
    
   
  
